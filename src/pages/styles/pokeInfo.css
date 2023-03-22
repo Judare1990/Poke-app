@@ -58,9 +58,7 @@ padding: 2rem;
 .types_abilities span{
     border: 2px solid black;
     font-size: 1.5rem;
-    width: 128px;
-    text-align: center;
-    height: 30px; 
+    padding: 5px 10px;
 }
 .img-grass{
  background: linear-gradient(178.92deg, #7EC6C5 0.92%, #ABDAC6 47.96%, #CAE099 99.08%);
