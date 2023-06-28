@@ -1,14 +1,14 @@
-.pokedex_img{
-    width: 500px;
-    min-width: 200px;
-    align-items: center;
-    margin-left: 5%;
+.pokedex_img {
+  width: 500px;
+  min-width: 200px;
+  align-items: center;
+  margin-left: 5%;
 }
-.header{
-     min-height: 15vh;
-     background: linear-gradient(180deg, red 0 65%, #191919 55% 100%);
-     padding: .5rem;
-     display: flex;
-     justify-content: start;
-     align-items: center;
+.header {
+  min-height: 15vh;
+  background: linear-gradient(180deg, red 0 65%, #191919 55% 100%);
+  padding: 0.5rem;
+  display: flex;
+  justify-content: start;
+  align-items: center;
 }
